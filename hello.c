@@ -12,6 +12,7 @@
 
 int main(int argc, char **argv) {
 
- printf("Jay Jay\n");
+ printf("Jay Jay!\n");
+ printf("Computer Science\n");
  return 0;
 }
